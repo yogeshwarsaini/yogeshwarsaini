@@ -44,10 +44,10 @@ currently_working_on:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Services & Tools:**
-- EC2, RDS, S3, Lambda, VPC
-- CloudWatch, IAM, Security Groups
+- EC2, RDS, S3, Lambda, VPC ,Ec2 ,DynamoDB , Cloudformation , Cloudfront
+- CloudWatch, IAM, Security Groups , Firewall mgmt
 - Infrastructure as Code (Terraform)
-- CI/CD Pipelines
+- CI/CD Pipelines , Docker ,Gitbash
 
 </td>
 <td width="50%">
