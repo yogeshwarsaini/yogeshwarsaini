@@ -46,8 +46,8 @@ currently_working_on:
 **Services & Tools:**
 - EC2, RDS, S3, Lambda, VPC ,Ec2 ,DynamoDB , Cloudformation , Cloudfront
 - CloudWatch, IAM, Security Groups , Firewall mgmt
-- Infrastructure as Code (Terraform)
-- CI/CD Pipelines , Docker ,Gitbash
+- Infrastructure as Code (Terraform) 
+- CI/CD Pipelines , Docker ,Gitbash , Kubernetes  
 
 </td>
 <td width="50%">
@@ -173,8 +173,9 @@ class CurrentFocus:
 
 ## 🏅 Certifications & Achievements
 
-- 🎓 **AWS Cloud Practitioner** (In Progress)
-- 🔐 **Cybersecurity Fundamentals**
+- 🎓 **Certified AWS Cloud Practitioner
+- 🎓 ** AWS Cloud Architect Associate**(ongoing) 
+- 🔐 **Certified Ethical Hacker (EC - Council)**
 - 💻 **Cloud Infrastructure Design**
 - 🛡️ **Network Security & Penetration Testing**
 
@@ -188,7 +189,7 @@ class CurrentFocus:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshwarsaini)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshwarsaini)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshwar@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogismash123@gmail.com)
 
 </div>
 
